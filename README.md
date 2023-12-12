@@ -7,7 +7,7 @@ A collection of small Python projects for beginners. Each project focuses on a s
 
 | S.No   | Project Name                     | Description                                      |
 | --- | -------------------------------- | ------------------------------------------------ |
-| 1   | [Password Genereator](projects/project_1/README.md)   | Password Generator  with python                      |
+| 1   | [Password Genereator](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/password-generator.py)   | Password Generator  with python                      |
 
 Each project has its own directory with a dedicated README providing details and instructions.
 
