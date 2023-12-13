@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 import pyperclip
 
+
 conversions = {
     1: "Uppercase",
     2: "Lowercase",
