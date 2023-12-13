@@ -1,8 +1,10 @@
 # Python Mini Projects
+![Pythonminiprojects](https://github.com/AbinandhMJ/Python-Mini-Projects/assets/99226172/5b97f326-9828-4907-9b3b-c486e7ab152f)
+
 
 A collection of small Python projects for beginners. Each project focuses on a specific concept or skill, making it a great resource for learning Python.
 
-## Table of Content
+
 ## Project List
 
 | S.No   | Project Name                     | Description                                      |
