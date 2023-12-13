@@ -8,6 +8,7 @@ A collection of small Python projects for beginners. Each project focuses on a s
 | S.No   | Project Name                     | Description                                      |
 | --- | -------------------------------- | ------------------------------------------------ |
 | 1   | [Password Genereator](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/password-generator.py)   | Password Generator  with python                      |
+| 2   | [Case Converter](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Caseconverter.py)   | Case converter with python                      |
 
 Each project has its own directory with a dedicated README providing details and instructions.
 
@@ -18,8 +19,8 @@ These instructions will help you get a copy of the project up and running on you
 # Running the Projects
 Provide instructions on how to run the projects on a local machine.
 ```` bash
-cd Python-Mini-Projects/passwordgenerator
-python passwordgenerator.py
+cd Python-Mini-Projects/
+python filename.py
 `````
 
 ## Contributing
