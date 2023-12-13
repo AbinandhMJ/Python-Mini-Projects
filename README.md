@@ -13,6 +13,9 @@ A collection of small Python projects for beginners. Each project focuses on a s
 | 2   | [Case Converter](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Caseconverter.py)   | Case Converter  with python                      |
 | 3   | [ASCII Art Generator](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/asciiart.py)   | ASCII Art Generator  with python                      |
 | 4   | [Password Strength Checker](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/PasswordStrengthChecker.py)   | Password Strength Checker with python                      |
+| 5  | [Quiz Game](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Quizgame.py)   | Quiz Game with python                      |
+
+| 6  | [Screenshot Grabber](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Screenshotgrabber.py)   | Screenshot Grabber with python                      |
 
 Each project has its own directory with a dedicated README providing details and instructions.
 
