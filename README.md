@@ -15,6 +15,7 @@ A collection of small Python projects for beginners. Each project focuses on a s
 | 5    | [Quiz Game](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Quizgame.py)                        | Quiz Game with Python                             |
 | 6    | [Screenshot Grabber](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Screenshotgrabber.py)      | Screenshot Grabber with Python                    |
 | 7    | [YouTube Downloader](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/YoutubeDownloader.py)      | YouTube Downloader with Python                    |
+| 8    | [URL Shortner](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/urlshortner.py)      | URL Shortner with Python                    |
 
 ## Getting Started
 
