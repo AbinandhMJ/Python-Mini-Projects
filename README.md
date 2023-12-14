@@ -14,6 +14,7 @@ A collection of small Python projects for beginners. Each project focuses on a s
 | 4    | [Password Strength Checker](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/PasswordStrengthChecker.py) | Password Strength Checker with Python         |
 | 5    | [Quiz Game](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Quizgame.py)                        | Quiz Game with Python                             |
 | 6    | [Screenshot Grabber](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Screenshotgrabber.py)      | Screenshot Grabber with Python                    |
+| 7    | [YouTube Downloader](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/YoutubeDownloader.py)      | YouTube Downloader with Python                    |
 
 ## Getting Started
 
