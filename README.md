@@ -18,7 +18,7 @@ A collection of small Python projects for beginners. Each project focuses on a s
 | 8    | [URL Shortner](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/urlshortner.py)      | URL Shortner with Python                    |
 | 9    | [QR Code Geneartor](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/QRCode-Generator.py)      | QR Code Geneartor with Python                    |
 | 10    | [Shutdown Computer using Python](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/ShutdownComputerusingPython.py)      | Shutdown Computer using Python                    |
-
+| 11    | [Defang IP Address](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/DefangIPAddress.py)      | Defang IP Address using Python |
 ## Getting Started
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
