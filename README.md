@@ -16,6 +16,7 @@ A collection of small Python projects for beginners. Each project focuses on a s
 | 6    | [Screenshot Grabber](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Screenshotgrabber.py)      | Screenshot Grabber with Python                    |
 | 7    | [YouTube Downloader](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/YoutubeDownloader.py)      | YouTube Downloader with Python                    |
 | 8    | [URL Shortner](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/urlshortner.py)      | URL Shortner with Python                    |
+| 9    | [QR Code Geneartor](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/QRCode-Generator.py)      | QR Code Geneartor with Python                    |
 
 ## Getting Started
 
