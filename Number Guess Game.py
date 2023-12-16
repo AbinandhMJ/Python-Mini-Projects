@@ -1,101 +1,64 @@
 import random
 
-attempts = 3
-score = 0
-easy = 20
-moderate = 35
-hard = 100
-difficult = 300
+def play_game(max_value, attempts):
+    secretnum = random.randint(1, max_value)
 
-Levels = """
-1, Easy
-2, Moderate
-3, Hard
-4, Difficult
-"""
+    for attempt in range(attempts):
+        print(f"\nAttempt {attempt + 1} of {attempts}")
+        guess = int(input(f"Guess the number between 1-{max_value}: "))
 
-
-max_value = 0
-print(f"Welcome Player!\n Choose a Level to continue \n"
-      f"Levels: {Levels}")
-Level = int(input("Select a level to start!: "))
-if Level == 1:
-    max_value = easy
-    print("Level 1: Easy")
-elif Level == 2:
-    max_value = moderate
-    print("Level 2: Moderate")
-elif Level == 3:
-    print("Level 3: Hard")
-    max_value = hard
-elif Level == 4:
-    print("Level 4: Difficult")
-    max_value = difficult
-else:
-    print("Select a Level to Continue!...")
-
-secretnum = random.randint(1, max_value)
-
-for attempt in range(attempts):
-    print(f"LEVEL: {Level} ")
-    print("I've Got a Secret Number! Guess it Now!...")
-    print(secretnum)
-    guess = int(input(f"Guess the number between 1-{max_value}: "))
-
-    if guess == secretnum:
-        score += (attempt + attempts) * 10
-        print(f"Hurray! You Won\nYour Score: {score}")
-        choice = input("Do you want to continue? (Yes/No): ")
-        if choice.lower() == "yes":
-            max_value += 10
-            print(f"Congratulations! Moving on to the next round with a range of 1-{max_value}.")
-            continue
+        if guess == secretnum:
+            print(f"Hurray! You guessed it right! The secret number was {secretnum}")
+            return True
+        elif guess > secretnum:
+            print("Your guess is too high. Try again!")
         else:
-            print(f"Your Score: {score}\n Thankyou for Playing")
+            print("Your guess is too low. Try again!")
+
+    print(f"\nGame Over! The secret number was {secretnum}. Better luck next time!")
+    return False
+
+def main():
+    attempts = 3
+    score = 0
+    max_value = 0
+
+    print("Welcome Player!\nChoose a Level to continue")
+    print("1. Easy (Range: 1-20)")
+    print("2. Moderate (Range: 1-35)")
+    print("3. Hard (Range: 1-100)")
+    print("4. Difficult (Range: 1-300)")
+
+    level = int(input("Select a level to start (1-4): "))
+
+    if level == 1:
+        max_value = 20
+    elif level == 2:
+        max_value = 35
+    elif level == 3:
+        max_value = 100
+    elif level == 4:
+        max_value = 300
+    else:
+        print("Invalid level. Exiting the game.")
+        return
+
+    print(f"Level {level}: Get ready to guess the secret number in the range 1-{max_value}!")
+
+    if play_game(max_value, attempts):
+        score += 10
+
+    while True:
+        choice = input("Do you want to play again? (yes/no): ").lower()
+        if choice != "yes":
+            print(f"Your Final Score: {score}\nThank you for playing!")
             break
-    elif guess > secretnum:
-        print("Your guess is too high\n Try Again!")
-    elif guess < secretnum:
-        print("Your guess is too low\n Try Again!")
+        else:
+            max_value += 10
+            attempts += 1
+            print(f"\nCongratulations! Moving on to the next round with a range of 1-{max_value}.")
+            if play_game(max_value, attempts):
+                score += 10
 
-if guess != secretnum:
-    print(f"Game Over!..., Your Score: {score}\n Thankyou for playing")
-#
-# for attempt in range(attempts):
-#
-#     guess = int(input("Guess the number between 1-20: "))
-#     if guess == secretnum:
-#         score += (attempt + attempts) * 10
-#         print(f"You Won! your score is {score}")
-#         break
-#     elif guess > secretnum:
-#         print("Your guess is too high")
-#     elif guess < secretnum:
-#         print("Your guess is too low")
-#
-# if guess != secretnum:
-#         print(f"Game Over!!! number is {secretnum}")
-
-
-
-# import random
-#
-# num = random.randint(1, 20)
-#
-# max_attempts = 3
-# attempt = 0
-#
-# while attempt < max_attempts:
-#     guess = int(input("Guess the number between 1-20: "))
-#     attempt += 1
-#
-#     if guess == num:
-#         print("You Won!")
-#         break
-#     elif guess > num:
-#         print("Your guess is higher!")
-#     else:
-#         print("Your guess is lower!")
-#
-# if attempt == max_attempts and guess != num:
-#     print(f"Sorry, you've run out of attempts. The correct number was {num}.")
+if __name__ == "__main__":
+    main()
