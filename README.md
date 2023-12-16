@@ -27,6 +27,10 @@ A collection of small Python projects for beginners. Each project focuses on a s
 | 9    | [QR Code Geneartor](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/QRCode-Generator.py)      | QR Code Geneartor with Python                    |
 | 10    | [Shutdown Computer using Python](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/ShutdownComputerusingPython.py)      | Shutdown Computer using Python                    |
 | 11    | [Defang IP Address](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/DefangIPAddress.py)      | Defang IP Address using Python |
+| 12    | [IP Address](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/ipadressusingpyhton.py)      | IP Address using Python |
+| 13    | [Alert Notification](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/alert_notification.py)      | Alert Notification using Python |
+| 14    | [Internet Speed Calculator](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/internetspeed.py)      | Internet Speed Calculator using Python |
+| 15    | [Internet Speed Calculator](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Number%20Guess%20Game.py)      | Number Guessing Game using Python |
 
 ## Getting Started
 
