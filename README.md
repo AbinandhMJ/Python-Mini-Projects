@@ -30,7 +30,7 @@ A collection of small Python projects for beginners. Each project focuses on a s
 | 12    | [IP Address](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/ipadressusingpyhton.py)      | IP Address using Python |
 | 13    | [Alert Notification](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/alert_notification.py)      | Alert Notification using Python |
 | 14    | [Internet Speed Calculator](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/internetspeed.py)      | Internet Speed Calculator using Python |
-| 15    | [Internet Speed Calculator](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Number%20Guess%20Game.py)      | Number Guessing Game using Python |
+| 15    | [Number Guessing Game](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Number%20Guess%20Game.py)      | Number Guessing Game using Python |
 
 ## Getting Started
 
