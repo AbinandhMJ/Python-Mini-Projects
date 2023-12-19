@@ -32,6 +32,7 @@ A collection of small Python projects for beginners. Each project focuses on a s
 | 14    | [Internet Speed Calculator](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/internetspeed.py)      | Internet Speed Calculator using Python |
 | 15    | [Number Guessing Game](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Number%20Guess%20Game.py)      | Number Guessing Game using Python |
 | 16   | [OS Removing using python](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/removefile.py)      | Python code to remove OS and remove specific files |
+| 17   | [Basic File Explorer](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/BasicFileExplorer.py)      | simple console file explorer. Users input a directory, and the program lists its files |
 
 ## Getting Started
 
