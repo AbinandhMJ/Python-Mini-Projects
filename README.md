@@ -33,6 +33,7 @@ A collection of small Python Mini projects for beginners. Each project focuses o
 | 15    | [Number Guessing Game](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Number%20Guess%20Game.py)      | Number Guessing Game using Python |
 | 16   | [OS Removing using python](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/removefile.py)      | Python code to remove OS and remove specific files |
 | 17   | [Basic File Explorer](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/BasicFileExplorer.py)      | simple console file explorer. Users input a directory, and the program lists its files |
+| 18   | [Email Slicer](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/EmailSlicer.py)      | program that extracts the username and domain from an email address |
 
 ## Getting Started
 
