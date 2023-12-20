@@ -11,7 +11,7 @@
 ![Maintainer](https://img.shields.io/badge/Maintainer-AbinandhMJ-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blueviolet.svg)](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/LICENSE)
 
-A collection of small Python projects for beginners. Each project focuses on a specific concept or skill, making it a great resource for learning Python.
+A collection of small Python Mini projects for beginners. Each project focuses on a specific concept or skill, making it a great resource for learning Python.
 
 ## Project List
 | S.No | Project Name                                     | Description                                       |
