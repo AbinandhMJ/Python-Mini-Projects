@@ -59,8 +59,6 @@ If you encounter any challenges or have suggestions for improving this collectio
 
 If you find value in this collection, consider giving it a ⭐ star on [GitHub](https://github.com/AbinandhMJ/Python-Mini-Projects).
 
----
-
 ## Contributing ✨
 If you'd like to contribute, please fork the repository and create a new branch. Open a pull request with your changes.
 
