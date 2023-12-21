@@ -35,6 +35,7 @@ A collection of small Python Mini projects for beginners. Each project focuses o
 | 17   | [Basic File Explorer](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/BasicFileExplorer.py)      | simple console file explorer. Users input a directory, and the program lists its files |
 | 18   | [Email Slicer](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/EmailSlicer.py)      | program that extracts the username and domain from an email address |
 | 19   | [File Organizer](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/FileOrganiser.py)      | program that organizes files in the system directores|
+| 20   | [WiFi Scanner](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Wifi_Scanner.py)      | WiFi scanner in Python involves interacting with the operating system's networking capabilities to discover and list available WiFi networks.|
 
 ## Getting Started
 
