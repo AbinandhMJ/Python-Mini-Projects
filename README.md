@@ -24,7 +24,7 @@ A collection of small Python Mini projects for beginners. Each project focuses o
 | 6    | [Screenshot Grabber](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/Screenshotgrabber.py)      | Screenshot Grabber with Python                    |
 | 7    | [YouTube Downloader](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/YoutubeDownloader.py)      | YouTube Downloader with Python                    |
 | 8    | [URL Shortner](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/urlshortner.py)      | URL Shortner with Python                    |
-| 9    | [QR Code Geneartor](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/QRCode-Generator.py)      | QR Code Geneartor with Python                    |
+| 9    | [QR Code Geneartor](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/QRCode-Generator.py)      | QR Code Generator with Python                    |
 | 10    | [Shutdown Computer using Python](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/ShutdownComputerusingPython.py)      | Shutdown Computer using Python                    |
 | 11    | [Defang IP Address](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/DefangIPAddress.py)      | Defang IP Address using Python |
 | 12    | [IP Address](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/ipadressusingpyhton.py)      | IP Address using Python |
@@ -34,6 +34,7 @@ A collection of small Python Mini projects for beginners. Each project focuses o
 | 16   | [OS Removing using python](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/removefile.py)      | Python code to remove OS and remove specific files |
 | 17   | [Basic File Explorer](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/BasicFileExplorer.py)      | simple console file explorer. Users input a directory, and the program lists its files |
 | 18   | [Email Slicer](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/EmailSlicer.py)      | program that extracts the username and domain from an email address |
+| 19   | [File Organizer](https://github.com/AbinandhMJ/Python-Mini-Projects/blob/master/FileOrganiser.py)      | program that organizes files in the system directores|
 
 ## Getting Started
 
