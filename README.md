@@ -63,4 +63,4 @@ If you find value in this collection, consider giving it a ⭐ star on [GitHub](
 If you'd like to contribute, please fork the repository and create a new branch. Open a pull request with your changes.
 
 ## Licence 🧾
-You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
+You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE)
