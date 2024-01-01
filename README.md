@@ -1,4 +1,4 @@
-# Python Mini Projects
+U# Python Mini Projects
 ![Pythonminiprojects](https://github.com/AbinandhMJ/Python-Mini-Projects/assets/99226172/5b97f326-9828-4907-9b3b-c486e7ab152f)
 ![Python Mini Projects](https://img.shields.io/github/languages/top/AbinandhMJ/Python-Mini-Projects)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbinandhMJ/Python-Mini-Projects)
@@ -62,5 +62,5 @@ If you find value in this collection, consider giving it a ⭐ star on [GitHub](
 ## Contributing ✨
 If you'd like to contribute, please fork the repository and create a new branch. Open a pull request with your changes.
 
-## Licence 🧾
+## License 🧾
 You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE)
